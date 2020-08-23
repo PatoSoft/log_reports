@@ -4,12 +4,12 @@ Current reports available:
 * Webpages with most page views
 * Webpages with most unique page views
 
-# Usage
+## Usage
 ```
 ruby log_reports.rb data/webserver.log
 ```
 
-# Running the tests
+## Running the tests
 Installing dependencies (only the first time):
 ```
 bundle
